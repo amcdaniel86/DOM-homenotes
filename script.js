@@ -49,5 +49,8 @@
 // setInterval(changeColor, 500)
 // setInterval(changeColorTwo, 600)
 
-let firstCat = document.querySelector('.cat');
-firstCat.style.backgroundColor = "blue";
+// let firstCat = document.querySelector('.cat');
+// firstCat.style.backgroundColor = "red";
+
+// let allAnimals = document.querySelectorAll('.cat, .mouse, #dog')
+// allAnimals[0,1,2,3,4,5,6,7].style.backgroundColor = "red";
